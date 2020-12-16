@@ -15,3 +15,4 @@ Dr. Harsimranjit Singh Gill	ece_harsimranjit
 
 Er. Chahat Jain	chahatjain
 
+Er. Daljit Singh daljithattan
