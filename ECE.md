@@ -1,5 +1,5 @@
 ## GURU NANAK DEV ENGINEERING COLLEGE LUDHIANA
-## ELECTRONCS AND COMMUNICATION ENGG. DEPARTMENT 
+## ELECTRONCS AND COMMUNICATION ENGG. DEPARTMENT
 Staff Information
 Name of Advisor
 
@@ -15,4 +15,7 @@ Dr. Harsimranjit Singh Gill	ece_harsimranjit
 
 Er. Chahat Jain	chahatjain
 
+
 Er. Daljit Singh daljithattan
+
+Harvir Singh
